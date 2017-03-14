@@ -1,0 +1,12 @@
+2
+Israel.png,Israel
+UnitedStates.png,United states
+Flag1.png Britain
+flag2.png Brazil
+flag3.png Canada
+flag5.png Sweeden
+flag6.png France
+flag4.png Germany
+flag7.png Greece
+flag8.png Switzerland
+
